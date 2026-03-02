@@ -8,7 +8,11 @@
  * where each line contributes to forming the letters O, O, P, and S in a stylized format.
  * This extends a basic user story by adding visual presentation to a simple message output.
  * </p>
+<<<<<<< HEAD
  * * @author Varun sai 
+=======
+ * * @author Varun sai
+>>>>>>> 93d9c7f60da3c76a906b0b2bd7bed8d3c78554eb
  * @version 2
  */
 

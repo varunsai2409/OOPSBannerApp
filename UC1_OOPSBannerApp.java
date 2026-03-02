@@ -1,5 +1,5 @@
 /**
- * OOPSBannerApp UC2 – Banner Display Application
+ * OOPSBannerApp UC1 – Print OOPS to Console
  * * This class demonstrates the creation of a visual banner displaying the word "OOPS"
  * using ASCII art composed of asterisks (*) and spaces. The banner is printed to the
  * console using individual print statements for each line, creating a decorative
@@ -8,7 +8,7 @@
  * where each line contributes to forming the letters O, O, P, and S in a stylized format.
  * This extends a basic user story by adding visual presentation to a simple message output.
  * </p>
- * * @author Varun Sai
+ * * @author Varun sai
  * @version 2
  */
 

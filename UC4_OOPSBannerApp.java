@@ -1,5 +1,5 @@
 /**
- * OOPSBannerApp UC2 – Banner Display Application
+ * OOPSBannerApp UC4 – Render OOPS as Banner using String Array and Loop
  * * This class demonstrates the creation of a visual banner displaying the word "OOPS"
  * using ASCII art composed of asterisks (*) and spaces. The banner is printed to the
  * console using individual print statements for each line, creating a decorative
