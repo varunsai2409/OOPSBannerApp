@@ -8,7 +8,7 @@
  * where each line contributes to forming the letters O, O, P, and S in a stylized format.
  * This extends a basic user story by adding visual presentation to a simple message output.
  * </p>
- * * @author Gowtham 
+ * * @author Varun sai 
  * @version 2
  */
 
